@@ -1,0 +1,19 @@
+.navbar{
+    background-color: black;
+    color: aqua;
+    width: 100%;
+    font-size: 18px;
+    display: flex;
+    justify-content: end;
+
+}
+.nav-list{
+    padding: 5px;
+    display: flex;
+    margin: 5px;
+
+}
+ul li{
+    list-style: none;
+    padding-right: 30px;
+}
